@@ -11,16 +11,16 @@
 
 - 🌱 I'm learning **modern web technologies and best practices**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, TypeScript, Node.js, or web development**
 - 📫 How to reach me: **ars.makif@gmail.com**
-- ⚡ Fun fact: I love building user-friendly interfaces and scalable backend systems
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=makifars&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makifars&layout=compact&theme=radical&hide_border=true" alt="makifars" height="180" />
 </p>
 

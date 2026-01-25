@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makifars&show_icons=true&theme=radical&hide_border=true" alt="makifars" height="180" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makifars&layout=compact&theme=radical&hide_border=true" alt="makifars" height="180" />
 </p>
 
